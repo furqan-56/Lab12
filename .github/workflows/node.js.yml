@@ -11,7 +11,7 @@ on:
 
 jobs:
   test:
-
+    name: Running Node Unit Tests
     runs-on: Windows
 
     strategy:
